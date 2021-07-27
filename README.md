@@ -11,16 +11,17 @@ Feel free to suggest or create PRs with changes and additions, as well as open d
 ##### Reading
 1. [What is Blockchain?](https://www.investopedia.com/terms/b/blockchain.asp)
 2. [Blockchain explained in under 100 words](https://www2.deloitte.com/ch/en/pages/strategy-operations/articles/blockchain-explained.html)
-3. [Blockchain History](https://en.wikipedia.org/wiki/Blockchain#History)
-4. [Types of Blockchain](https://en.wikipedia.org/wiki/Blockchain#Types)
-5. [How blockchain data is stored and secured](https://www.euromoney.com/learning/blockchain-explained/how-blockchain-data-is-stored-and-secured)
-6. [How does a transaction get into the blockchain?](https://www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain)
-7. [Proof-of-Work vs. Proof-of-Stake](https://medium.com/swissborg/proof-of-work-vs-proof-of-stake-translated-by-hashiva-pedro-lima-c136e3b5faaa) [PT-BR]
-8. [What are Smart Contracts? - by IBM](https://www.ibm.com/topics/smart-contracts)
-9. [What is DeFi?](https://forkast.news/explainer-decentralized-finance-defi-guide/)
-10. [What is DAO?](https://coinmarketcap.com/alexandria/article/what-is-a-dao)
-11. [What are NFTs](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
-12. [Blockchain applied on our lives - 30 Startups](https://builtin.com/blockchain/blockchain-applications)
+3. [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&ab_channel=3Blue1Brown) [VIDEO]
+4. [Blockchain History](https://en.wikipedia.org/wiki/Blockchain#History)
+5. [Types of Blockchain](https://en.wikipedia.org/wiki/Blockchain#Types)
+6. [How blockchain data is stored and secured](https://www.euromoney.com/learning/blockchain-explained/how-blockchain-data-is-stored-and-secured)
+7. [How does a transaction get into the blockchain?](https://www.euromoney.com/learning/blockchain-explained/how-transactions-get-into-the-blockchain)
+8. [Proof-of-Work vs. Proof-of-Stake](https://medium.com/swissborg/proof-of-work-vs-proof-of-stake-translated-by-hashiva-pedro-lima-c136e3b5faaa) [PT-BR]
+9. [What are Smart Contracts? - by IBM](https://www.ibm.com/topics/smart-contracts)
+10. [What is DeFi?](https://forkast.news/explainer-decentralized-finance-defi-guide/)
+11. [What is DAO?](https://coinmarketcap.com/alexandria/article/what-is-a-dao)
+12. [What are NFTs](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
+13. [Blockchain applied on our lives - 30 Startups](https://builtin.com/blockchain/blockchain-applications)
 
 ##### Courses and Videos
 1. [Blockchain Theory 101](https://www.udemy.com/course/blockchain-theory-101/) [COURSE]
