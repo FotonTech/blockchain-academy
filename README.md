@@ -19,21 +19,73 @@ Feel free to suggest or create PRs with changes and additions, as well as open d
 8. [What are Smart Contracts? - by IBM](https://www.ibm.com/topics/smart-contracts)
 9. [What is DeFi?](https://forkast.news/explainer-decentralized-finance-defi-guide/)
 10. [What is DAO?](https://coinmarketcap.com/alexandria/article/what-is-a-dao)
-11. [Blockchain applied on our lives - 30 Startups](https://builtin.com/blockchain/blockchain-applications)
+11. [What are NFTs](https://www.forbes.com/advisor/investing/nft-non-fungible-token/)
+12. [Blockchain applied on our lives - 30 Startups](https://builtin.com/blockchain/blockchain-applications)
 
 ##### Courses and Videos
 1. [Blockchain Theory 101](https://www.udemy.com/course/blockchain-theory-101/) [COURSE]
 2. [Smart Contracts Course - by Coursera](https://www.coursera.org/learn/smarter-contracts) [COURSE]
+3. [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ) [YOUTUBE]
 
 
 ---
 <a id="common-blockchains"></a>     
 **Common Blockchains**: 
-1. [Ethereum](https://ethereum.org/)
-2. [Wax/EOS](https://on.wax.io/wax-io/)
+#### [Ethereum](https://ethereum.org/)
+##### Reading
+1. [Ethereum - Official Site](https://ethereum.org/)
+2. [What is Ethereum?](https://www.investopedia.com/terms/e/ethereum.asp)
+3. [What is Ether?](https://ethereum.org/en/eth/)
+4. [How To Use Ethereum](https://www.coindesk.com/learn/ethereum-101/how-to-use-ethereum)
+5. [Ethereum Virtual Machine - EVM](https://ethereum.org/en/developers/docs/evm/)
+6. [Main and Test Networks](https://ethereum.org/en/developers/docs/networks/)
+7. [Gas and fees](https://ethereum.org/en/developers/docs/gas/)
+8. [Oracles](https://ethereum.org/en/developers/docs/oracles/)
+9. [Programming Language - Solidity](https://docs.soliditylang.org/en/v0.8.6/)
+10. [Solidity - Official Site](https://docs.soliditylang.org/en/v0.8.6/)
+
+
+##### Courses and Videos
+1. [Ethereum Explained To Beginners](https://www.youtube.com/watch?v=jxLkbJozKbY&ab_channel=99Bitcoins) [VIDEO]
+2. [Oracles Explained Simply](https://www.youtube.com/watch?v=m64dLRjJ9Bs&ab_channel=Hashoshi) [VIDEO]
+3. [Cryptozombies](https://cryptozombies.io/): Learn to code Blockchain apps by building simple games. [COURSE]
+
+
+##### Tools
+1. [Solidity](https://docs.soliditylang.org/en/v0.8.6/): The Ethereum programming language.
+2. [Remix - Online IDE](https://remix.ethereum.org/): ideal to test, compile and use your smart contracts without the need of install and configure an entire local environment.
+3. [OpenZeppelin](https://openzeppelin.com/): the best abstraction to your smart contracts, to prevent you from rewriting patterns like ERC20, ERC721 and ERC1155, just extending as inheritance.
+4. [Hardhat](https://hardhat.org/): an Ethereum development environment to deploy, debug and test your smart contracts.
+---
+
+
+#### [Wax/EOS](https://on.wax.io/wax-io/): A Blockchain focused on NFTs.
+##### Reading
+1. [WAX - Official Site](https://on.wax.io/wax-io/)
+2. [What is WAX](https://academy.ivanontech.com/blog/exploring-the-worldwide-asset-exchange-wax)
+3. [Top 5 Wax DApps](https://www.youtube.com/watch?v=3EvVwhg8OEg&ab_channel=LiteLiger)
+
+##### Courses and Videos
+1. [Create Smart Contracts on WAX Blockchain](https://tetacourse.com/development/892-create-a-smart-contract-on-wax-blockchain-including-nft-rng.html) [COURSE]
+
+
+##### Tools
+1. [EOS Studio](https://app.eosstudio.io/): an EOS online IDE.
+
+
 ---
 <a id="code"></a>     
 **Code**:
+#### [Ethereum](https://ethereum.org/)
+1. [Solidity - Full Tutorial](https://www.tutorialspoint.com/solidity/index.htm) [DOCUMENTATION]
+2. [Solidity By Example](https://solidity-by-example.org/) [COURSE]
+3. [How to Create an NFT](https://docs.alchemy.com/alchemy/tutorials/how-to-create-an-nft/) [TUTORIAL]
+
+
+#### [Wax/EOS](https://on.wax.io/wax-io/): A Blockchain focused on NFTs.
+1. [Create NFT on WAX](https://developer.wax.io/dapps/create-non-fungible-tokens-nfts/) [TUTORIAL]
+2. [Create your own DApp on WAX](https://developer.wax.io/dapps/deploy-your-dapp-on-wax/) [TUTORIAL]
+
 
 ---
 <a id="mentors"></a>     
