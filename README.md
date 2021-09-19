@@ -91,4 +91,4 @@ Feel free to suggest or create PRs with changes and additions, as well as open d
 ---
 <a id="mentors"></a>     
 **Mentors**: 
-* Igor Lourenço [twitter](https://twitter.com/_igorlourenco)
+* Igor Lourenço [twitter](https://twitter.com/igorlourencox)
